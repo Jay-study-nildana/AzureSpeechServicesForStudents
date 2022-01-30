@@ -1,11 +1,10 @@
-# Azure Speech Services For Students
+# Jupyter Anaconda Files
 
 Some code I built while teaching my students.
 
-# Projects
+# Projects and Files
 
-1. [SpeechHelloWorld](SpeechHelloWorld) - Cognitive Services Text to Speech and Long Audio demo.
-1. [JupyterAnacondaFiles](JupyterAnacondaFiles) - Jupyter Anaconda files that can shows a quick use of Long Audio API.
+1. [LongAudioTestOne.ipynb](LongAudioTestOne) - Long Audio demo Python code.
 
 # Hire Me
 

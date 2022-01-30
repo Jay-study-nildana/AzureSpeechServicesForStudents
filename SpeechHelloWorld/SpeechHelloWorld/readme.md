@@ -1,11 +1,8 @@
-# Azure Speech Services For Students
+# Main Driver Program
 
-Some code I built while teaching my students.
+This is the main driver program. Essentially a console app that can be used to test things.
 
-# Projects
-
-1. [SpeechHelloWorld](SpeechHelloWorld) - Cognitive Services Text to Speech and Long Audio demo.
-1. [JupyterAnacondaFiles](JupyterAnacondaFiles) - Jupyter Anaconda files that can shows a quick use of Long Audio API.
+I suppose it might be simpler to use a Unit Test project but this seems more simpler.
 
 # Hire Me
 

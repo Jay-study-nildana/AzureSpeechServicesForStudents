@@ -1,11 +1,12 @@
-# Azure Speech Services For Students
+# SpeechHelloWorld
 
-Some code I built while teaching my students.
+A quick and easy solution that contains a demo Web API, console app and a class library.
 
 # Projects
 
-1. [SpeechHelloWorld](SpeechHelloWorld) - Cognitive Services Text to Speech and Long Audio demo.
-1. [JupyterAnacondaFiles](JupyterAnacondaFiles) - Jupyter Anaconda files that can shows a quick use of Long Audio API.
+1. [TextToSpeech](TextToSpeech) - The main class library. You only need this in your own solution to make this work.
+1. [SpeechHelloWorld](SpeechHelloWorld) - The console app that is used to test the class library
+1. [SpeechHelloWorldAPI](SpeechHelloWorldAPI) - The Web API server that is just like the console app, but a web api.
 
 # Hire Me
 

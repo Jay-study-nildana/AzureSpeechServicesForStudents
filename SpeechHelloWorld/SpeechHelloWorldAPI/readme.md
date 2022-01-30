@@ -1,11 +1,10 @@
-# Azure Speech Services For Students
+# Speech Hello World API.
 
-Some code I built while teaching my students.
+Web API that consumes the Speech library that I am building.
 
-# Projects
+# Note
 
-1. [SpeechHelloWorld](SpeechHelloWorld) - Cognitive Services Text to Speech and Long Audio demo.
-1. [JupyterAnacondaFiles](JupyterAnacondaFiles) - Jupyter Anaconda files that can shows a quick use of Long Audio API.
+1. Swagger may not always show the latest file in the API response. Refreshing Swagger documentation page seems to load the latest file just fine.
 
 # Hire Me
 
