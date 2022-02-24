@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ImageToTextAndSuch\ImageToTextAndSuch.csproj" />
     <ProjectReference Include="..\TextToSpeech\TextToSpeech.csproj" />
   </ItemGroup>
 

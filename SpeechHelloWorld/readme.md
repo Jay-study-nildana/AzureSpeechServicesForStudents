@@ -2,11 +2,16 @@
 
 A quick and easy solution that contains a demo Web API, console app and a class library.
 
+# Note 
+
+The project still has my keys. However, the keys are of course, retired or expired, so nothing to worry. 
+
 # Projects
 
 1. [TextToSpeech](TextToSpeech) - The main class library. You only need this in your own solution to make this work.
 1. [SpeechHelloWorld](SpeechHelloWorld) - The console app that is used to test the class library
-1. [SpeechHelloWorldAPI](SpeechHelloWorldAPI) - The Web API server that is just like the console app, but a web api.
+1. [SpeechHelloWorldAPI](SpeechHelloWorldAPI) - The Web API server that is just like the console app, but a web api. it consumes the other class libraries that are in this solution.
+1. [ImageToTextAndSuch](ImageToTextAndSuch) - The class library that works with image analysis and also image to text and so on.
 
 # Hire Me
 

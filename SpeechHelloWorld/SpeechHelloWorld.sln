@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechHelloWorld", "SpeechHelloWorld\SpeechHelloWorld.csproj", "{DB538B2F-839C-42CD-B4AA-8513499FE7DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechHelloWorld", "SpeechHelloWorld\SpeechHelloWorld.csproj", "{DB538B2F-839C-42CD-B4AA-8513499FE7DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeech", "TextToSpeech\TextToSpeech.csproj", "{ABE03B68-B7F8-4E67-BEA6-A1FE7AB9380F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextToSpeech", "TextToSpeech\TextToSpeech.csproj", "{ABE03B68-B7F8-4E67-BEA6-A1FE7AB9380F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechHelloWorldAPI", "SpeechHelloWorldAPI\SpeechHelloWorldAPI.csproj", "{6ED7CBE5-582C-407D-BF7D-8BDE014260E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechHelloWorldAPI", "SpeechHelloWorldAPI\SpeechHelloWorldAPI.csproj", "{6ED7CBE5-582C-407D-BF7D-8BDE014260E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToTextAndSuch", "ImageToTextAndSuch\ImageToTextAndSuch.csproj", "{7CBAC365-075A-45F7-9A79-3904F762201B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{6ED7CBE5-582C-407D-BF7D-8BDE014260E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED7CBE5-582C-407D-BF7D-8BDE014260E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED7CBE5-582C-407D-BF7D-8BDE014260E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBAC365-075A-45F7-9A79-3904F762201B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBAC365-075A-45F7-9A79-3904F762201B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBAC365-075A-45F7-9A79-3904F762201B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBAC365-075A-45F7-9A79-3904F762201B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

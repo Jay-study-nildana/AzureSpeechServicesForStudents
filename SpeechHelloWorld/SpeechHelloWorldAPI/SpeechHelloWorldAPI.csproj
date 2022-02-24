@@ -8,9 +8,11 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ImageToTextAndSuch\ImageToTextAndSuch.csproj" />
     <ProjectReference Include="..\TextToSpeech\TextToSpeech.csproj" />
   </ItemGroup>
 

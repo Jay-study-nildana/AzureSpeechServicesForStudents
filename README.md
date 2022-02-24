@@ -4,7 +4,9 @@ Some code I built while teaching my students.
 
 # Projects
 
-1. [SpeechHelloWorld](SpeechHelloWorld) - Cognitive Services Text to Speech and Long Audio demo.
+1. [SpeechHelloWorld](SpeechHelloWorld) - Contains demo code. As of now, it has 
+    1. Text To Speech. Short and Long Audio
+    1. Image To Text. Also Image Analysis.
 1. [JupyterAnacondaFiles](JupyterAnacondaFiles) - Jupyter Anaconda files that can shows a quick use of Long Audio API.
 
 # Hire Me
