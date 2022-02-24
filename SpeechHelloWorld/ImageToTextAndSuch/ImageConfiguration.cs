@@ -25,7 +25,7 @@ namespace ImageToTextAndSuch
         public ImageConfiguration()
         {
             endpoint = "https://ocrdemo1forstudents1.cognitiveservices.azure.com/";
-            key = "b4391bc0409a4f76b9ac7362a863710d";
+            key = "c11703ea5fe04a9094ab94922c2dfea4";
         }
     }
 }

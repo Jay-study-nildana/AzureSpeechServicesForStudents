@@ -2,6 +2,12 @@
 
 Some code I built while teaching my students.
 
+# Adult Content Warning
+
+The image analysis code tests for images of adult content. Students are warned in advance. 
+
+Further, these images were obtained on wikipedia. 
+
 # Projects
 
 1. [SpeechHelloWorld](SpeechHelloWorld) - Contains demo code. As of now, it has 

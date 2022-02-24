@@ -40,11 +40,15 @@ var tempTextToSpeechHelper = new TextToSpeechHelper();
 
 var tempImageToTextHelper = new ImageToTextHelper();
 //await tempImageToTextHelper.SimpleImageToTextTest();
-//comment and uncomment the file you want to test
-//var fileName = "AdultImageTest4.jpg"; //two nude girls
-//var fileName = "AdultImageTest3.jpg"; //three nude women
-//var fileName = "AdultImageTest2.jpg"; //dude with huge genetalia
-var fileName = "AdultImageTest1.jpg"; //woman with shiny posterior
+
+//the images are present and new images have to be put in this folder
+//SpeechHelloWorld\SpeechHelloWorld\bin\Debug\net6.0
+//testimages/2014_Nudes_a_Poppin.jpeg
+//testimages/Gabrellia_nude.jpg
+//testimages/Rosie_nude.jpg
+//testimages/Three_nude_standing_women_at_Nudes-A-Poppin_2009.jpg
+//testimages/sean-domingo-0FpCN0HiOhs-unsplash.jpg
+var fileName = "testimages/sean-domingo-0FpCN0HiOhs-unsplash.jpg"; 
 var workingDirectory = System.IO.Directory.GetCurrentDirectory();
 var tempFileName = Path.Combine(workingDirectory, fileName);
 await tempImageToTextHelper.AdultContentWithFile(tempFileName);

@@ -4,12 +4,17 @@ This is the main driver program. Essentially a console app that can be used to t
 
 I suppose it might be simpler to use a Unit Test project but this seems more simpler.
 
-# Nude Images Obtained from Wikipedia
+# Note About ImageToTextAndSuch Project for Image Analysis.
 
-1. https://commons.wikimedia.org/wiki/File:2014_Nudes_a_Poppin.jpeg
-1. https://commons.wikimedia.org/wiki/File:Three_nude_standing_women_at_Nudes-A-Poppin%27_2009.jpg
-1. https://commons.wikimedia.org/wiki/File:Nude_male_shaved.jpg
-1. https://commons.wikimedia.org/wiki/File:Nude_Vietnamese_woman_with_tan_lines.jpg
+I have included a folder called testimages. It contains some nude and racy images I got from wikipedia and unsplash.
+
+You need to place this follder, in the bin folder to run the driver program and get results. You can also add your new images for testing.
+
+```
+
+    //SpeechHelloWorld\SpeechHelloWorld\bin\Debug\net6.0
+
+```
 
 # Hire Me
 
